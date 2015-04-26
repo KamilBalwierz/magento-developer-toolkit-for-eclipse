@@ -1,0 +1,10 @@
+<?php
+
+/**
+ {@className}
+ {@phpDoc}
+*/
+class {@className} {@extends} {@extendsClassName} {
+	{@fields}
+	{@methods}
+}
